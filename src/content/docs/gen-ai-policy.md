@@ -2,15 +2,16 @@
 title: Generative AI policy
 ---
 
-#### Note
-
-The links that start with `:` are text-expansion links. I recommend reading the whole sample policy through without clicking, and then going back to click for more detail. The goal of these links is to provide students with extra guidance/details where needed without overwhelming them with a wall of text.
 
 ## Summary of the GenAI policy
 
 - You are free to use or not use GenAI chatbots in this course [:in any way](#x-modified)
 - *Every* assignment in this course must include either 1) a transcript of all relevant GenAI use or 2) a statement that no GenAI was used.
 - There is no penalty for using GenAI as long as you submit your chat transcripts.
+
+:::tip
+Links that start with `:` are text-expansion links. I recommend reading the whole sample policy through without clicking, and then going back to click for more detail.
+:::
 
 See the rest of the page for important details.
 
