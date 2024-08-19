@@ -25,7 +25,7 @@ export default defineConfig({
         },
         {
           label: 'GenAI Policy',
-          link: 'genaipolicy.md',
+          link: 'gen-ai-policy.md',
         },
       ], */
       head: [
