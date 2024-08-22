@@ -1,12 +1,12 @@
 ---
-title: Template - students submit links
+title: Template - students submit links or transcripts
 ---
 
 ## Summary of the GenAI policy
 
-- You are free to use or not use GenAI chatbots in this course in any way as long as you submit links to your chat transcripts
+- You are free to use or not use GenAI chatbots in this course in any way as long as you submit links to your chat transcripts or the transcripts themselves
 - There is no penalty for using GenAI chatbots
-- Every assignment in this course must include either 1) a link to a transcript of all relevant GenAI use or 2) a statement that no GenAI was used.
+- Every assignment in this course must include either 1) a link or a transcript of all relevant GenAI use or 2) a statement that no GenAI was used.
 
 See the rest of the page for important details.
 
@@ -23,14 +23,19 @@ Use the right sidebar to navigate the page.
 
 ## Official policy (includes linked details)
 
-The course's GenAI policy is: you may use GenAI chatbots ([:but only chatbots](#x-chatbots)) for any coursework with no penalty if:
+The course's GenAI policy is: you may use GenAI chatbots ([:but only chatbots](#x-chatbots)) for any coursework with no penalty if you do either of the following:
 
-1) you use a GenAI tool that lets you share a [:persistent chat link](#x-persistent)
-2) you submit [:links to all of your chat transcripts](#x-one-chat) along with the assignment
+1) Submit your chat links
+
+For this option, you must use a GenAI tool that lets you share a [:persistent chat link](#x-persistent). You must submit [:links to all of your chat transcripts](#x-one-chat) along with your assignment.
 
 If you use GenAI but don't submit [:the links](#x-submit-all), you've [:broken the rules](#x-no-submission).
 
-[optional--can remove or alter] You [do/do not] need to cite your use of GenAI in assignments in addition to providing your chat links.
+2) Submit your chat transcripts
+
+For this option, you must copy and paste your chats into a text document (no screen captures, please). Submit the transcript with your assignment on Canvas.
+
+[optional--can remove or alter] For either option, you [do/do not] need to cite your use of GenAI in assignments in addition to providing your chat links or transcript.
 
 Use or non-use of GenAI in this course [:will not affect your grade](#x-grade).
 
@@ -73,6 +78,12 @@ Note: you cannot share links unless you _create an account_ and _are logged in_ 
 To share the chat, click the `share link` icon, create a public link, and copy/paste it into your assignment. Here's a [:walkthrough](#x-details) with images.
 
 Don't make the mistake of [:copying the wrong links](#x-wrong-links).
+
+## How to submit transcripts
+
+If the assignment asks you to put your main submission in the online text box, add the markdown file using the `File Upload` tab.
+
+If the assignment is submitted as a file, submit the markdown file as a second file by clicking  `Add another file` [:as shown here](#x-another-file):
 
 ## NUS general GenAI policy
 
@@ -178,3 +189,7 @@ It doesn't matter if:
 - you are just testing the tool to see if it will be helpful and you decide that it's not
 
 Send the link! There is no penalty for use. Follow course policy.
+
+# :x another file
+
+![add another file](/images/add-another-file.png)
