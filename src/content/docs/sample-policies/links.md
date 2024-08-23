@@ -2,6 +2,13 @@
 title: Template - students submit links
 ---
 
+Instructor: Name
+Course:
+Course code:
+Tutorial code:
+Meeting time:
+Location:
+
 ## Summary of the GenAI policy
 
 - You are free to use or not use GenAI chatbots in this course in any way as long as you submit links to your chat transcripts

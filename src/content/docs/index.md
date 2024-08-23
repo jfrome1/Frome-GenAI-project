@@ -1,39 +1,43 @@
 ---
-title: Welcome to the GenAI project site
+title: Welcome to the NUS GenAI Policy Project
 date: 2024-08-16
 ---
 
-This project aims to promote a positive GenAI policy for writing-focused courses and to collect information about student use of GenAI for future research.
+This project aims to promote a positive GenAI policy for writing-focused courses and to collect information about student use of GenAI for future research. In short, we are inviting instructors to allow student use of GenAI on the condition that they submit links to their chats for analysis.
+
+Instructors will be given several options to customize the policy and process for their sections.
 
 ### We are inviting instructors to participate at their level of interest
 
-- Team member (low-effort): You set a GenAI policy for your course that includes students submitting transcripts of their GenAI use. After the course ends, you provide us those transcripts for research.
+- Team member (low-effort): You set a GenAI policy for your course that includes students submitting links to their GenAI chats (or transcripts, at your option). After the course ends, we analyze the chats (students are given the option to opt-out after grades are submitted).
 
-- Co-PI: In addition to team member duties, you join the research team at a level we can decide together, with potential duties including designing the study, analyzing data, and presenting or publishing our findings.
+- Co-PI: In addition to team member duties, you join the research team at a level we can decide together, after we know how many are interested in participating, with potential duties including helping design the study, analyzing data, and presenting or publishing our findings.
 
 ### Details about joining
 
-- Although we present a sample policy [here](/gen-ai-policy/), you can decide on a different GenAI policy for your course/section
-- We will make a webpage you can show students that explains your policy and how students can most easily follow it
-- Your students will turn in GenAI transcripts along with their assignments, but you don't need to do anything with them during the course
-- You can opt to look at all, some, or none of the transcripts during the course, and can communicate your choice to your students
-- Students will be told that their transcripts may be used for research, but that they can opt-out after their grades are delivered
-- Transcripts will be anonymized before being used in research.
-- We recommend that you make clear that students cannot opt-out of your GenAI course policy, only whether the transcripts they submit are analyzed for research purposes.
+- We have set up a student-facing GenAI policy site [here](https://nus-ai-writing-project.vercel.app/)
+- The site will have a separate page for each participating section that explains your policy and how students can most easily follow it
+- We recommend that you make it clear to students that they cannot opt-out of your GenAI course policy, only whether the transcripts they submit are analyzed for research purposes.
 
-### FAQs
+### Instructor options
 
-- Can I have my students copy and paste their chat into a document in Microsoft Word or Google Docs and submit that instead?
+I'll provide more details for those who want to join the project, but you can customize your policy in various ways, such as:
 
-That's ok with me, but there are possible drawbacks. In short, copy/pasting each time requires effort that will lower compliance as compared to a class of students with the software installed. The question is whether the effort of installing software is more of a burden than copy/pasting transcripts.
+- prohibiting certain uses, such as a ban on submitting work entirely produced by GenAI
+- options for what you tell students about whether you will or might look at the chats before grades are in, e.g.:
+	- you won't look at the chats until after grades are in
+	- you will look at chats only in cases where you have a good reason to
+	- you reserve the right to look at chats for any reason
+- including an instructor declaration about your own possible GenAI use as recommended by the [NUS Policy for Use of AI in Teaching and Learning](https://ctlt.nus.edu.sg/ai-community-of-practice/policies/)
 
- , and the resulting transcripts are more subject to formatting variation, which makes it much harder to process the data later. It's much easier if everyone captures the data in the same way.
+### How to participate
 
-This is an ongoing project and we are still figuring out the best ways to capture data. This term, (2024-25 Sem 1), I required my students all said that they didn't use GenAI on their first exercise. I'm going to require them to submit a downloaded transcript (just to make sure they have the software installed) before their second exercise, and I suspect I will see many transcripts for the next exercise.
+Just email me letting me know of your interest. In order to create a webpage for your section, I need to know:
 
-Currently, we have Firefox and Convdown. Short term, we may write a Chrome plug-in for this purpose. Longer term, we hope to write a custom platform.
+- course code
+- section or tutorial codes
+- meeting times and locations
 
+Once you send me this, I'll send you an email asking for you to choose several policy options. You will also be free to change any of the policy wording to suit you. Please see the sample policies on this site.
 
- First, I think student compliance will be much lower. It's a pain to copy/paste chats for every assignment, and even a small amount of friction can lead to low compliance when there is little direct benefit to the participant. The first time I asked for transcripts, in 2023-24 Semester 1, zero transcripts were submitted. I later found out (via email survey after grades were submitted) that about 70% of students did use GenAI in some form. They were willing to write me an email about their usage but not to copy/paste into a document.
-
-Second, there is a chance that text will be missed in the copy/paste process. Third, it is important that all data be in a similar format for later processing. ChatGPT has changed its page format and copy/pasted transcripts are more vulnerable to these changes. During 2023-24 Semester 2, copy/pasted transcripts didn't include the heading indicating whether the text was an prompt (input) or a response (output). Today,
+Feel free to invite instructors from other courses to join the project!

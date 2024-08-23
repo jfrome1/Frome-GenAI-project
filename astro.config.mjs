@@ -14,20 +14,16 @@ export default defineConfig({
   }),
   integrations: [
     starlight({
-      title: 'Frome GenAI',
+      title: 'Frome GenAI Project',
       customCss: [
         './src/styles/custom.css'
       ],
-/*       sidebar: [
+       sidebar: [
         {
-          label: 'Home',
-          link: 'index.md',
-        },
-        {
-          label: 'GenAI Policy',
-          link: 'gen-ai-policy.md',
-        },
-      ], */
+          label: 'Sample policies',
+          autogenerate: {directory: 'sample-policies'},
+		},
+	],
       head: [
         {
           tag: 'script',
@@ -42,7 +38,7 @@ export default defineConfig({
             src: '/nutshell-config.js',
             defer: true,
           }
-        }
+        },
       ],
     }),
   ],
