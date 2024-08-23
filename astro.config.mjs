@@ -19,6 +19,7 @@ export default defineConfig({
         './src/styles/custom.css'
       ],
        sidebar: [
+		{ label: 'Home', link: '/'},
         {
           label: 'Sample policies',
           autogenerate: {directory: 'sample-policies'},

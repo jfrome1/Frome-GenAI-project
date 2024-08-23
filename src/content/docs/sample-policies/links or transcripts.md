@@ -1,6 +1,18 @@
 ---
-title: Template - students submit links or transcripts
+title: Sample policy - links or transcripts
 ---
+
+Instructor:
+
+Course:
+
+Course code:
+
+Tutorial code:
+
+Meeting time:
+
+Location:
 
 ## Summary of the GenAI policy
 

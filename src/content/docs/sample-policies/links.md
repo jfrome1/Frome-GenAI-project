@@ -1,12 +1,17 @@
 ---
-title: Template - students submit links
+title: Sample policy - links
 ---
 
-Instructor: Name
+Instructor:
+
 Course:
+
 Course code:
+
 Tutorial code:
+
 Meeting time:
+
 Location:
 
 ## Summary of the GenAI policy
