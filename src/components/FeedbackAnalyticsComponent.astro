@@ -1,7 +1,3 @@
----
-import "astro-feelback/styles/feelback.css";
----
-
 <div class="container">
   <form id="feedbackForm">
     <label for="feedback">Feedback</label>
@@ -26,7 +22,7 @@ import "astro-feelback/styles/feelback.css";
         const messageDiv = document.getElementById('message') as HTMLDivElement;
         const button = document.getElementById('sendButton') as HTMLButtonElement;
 
-        if (form && messageDiv && button) { 
+        if (form && messageDiv && button) {
             function showMessage(text: string, type: 'success' | 'error') {
                 messageDiv.textContent = text;
                 messageDiv.className = type + ' show';
@@ -37,7 +33,7 @@ import "astro-feelback/styles/feelback.css";
 
             button.addEventListener('click', async (e) => {
                 e.preventDefault();
-                
+
                 const feedback = (document.getElementById('feedback') as HTMLTextAreaElement).value;
                 if (!feedback) {
                     showMessage('Please enter your feedback.', 'error');
