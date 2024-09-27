@@ -10,21 +10,31 @@ import rehypeExternalLinks from "rehype-external-links";
 import compress from "astro-compress";
 
 export default defineConfig({
-  // site: 'https://jfrome1.github.io/ntw2029/', // GitHub Pages URL config
-  // base: '/ntw2029/',
   integrations: [
-	starlight({
-		title: 'Frome GenAI Project',
-		customCss: [
-		  './src/styles/custom.css'
-		],
-		 sidebar: [
-		  { label: 'Home', link: '/'},
-		  {
-			label: 'Sample policies',
-			autogenerate: {directory: 'sample-policies'},
-		  },
-	  ],
+    starlight({
+      tableOfContents: {
+        minHeadingLevel: 1,
+        maxHeadingLevel: 2,
+      },
+      plugins: [
+        starlightNutshell(),
+      ],
+      title: 'NUS GenAI Policy Project',
+      components: {
+        // Override the default components.
+        TableOfContents: "./src/components/CustomTableOfContents.astro",
+      },
+      customCss: ["./src/styles/custom.css"],
+	  sidebar: [
+        {
+          label: 'Home',
+          link: 'index.md',
+        },
+        {
+          label: 'GenAI Policy',
+          link: 'gen-ai-policy.md',
+        },
+      ],
       head: [
         {
           tag: "script",
