@@ -7,19 +7,19 @@ This project aims to promote a positive GenAI policy for writing-focused courses
 
 Participating instructors will be allowed to set their own GenAI policy as appropriate for their classes.
 
-### We are inviting instructors to participate at their level of interest
+## We are inviting instructors to participate at their level of interest
 
 - Team member (low-effort): You set a GenAI policy for your course that includes students submitting links to their GenAI chats. After the course ends, we give students the option to opt-out of having their chats analyzed, and the remaining chats are analyzed for research.
 
 - Co-PI: In addition to team member duties, you join the research team at a level we can decide together, after we know how many are interested in participating, with potential duties including helping design the study, analyzing data, and presenting or publishing our findings.
 
-### Details about joining
+## Details about joining
 
 - We have set up a student-facing GenAI policy site [here](https://nus-ai-writing-project.vercel.app/)
 - The site will have a separate page for each participating course and section that explains your policy and how students can most easily follow it
 - We recommend various [:best practices](#x-best) for implementing the policy.
 
-### Instructor options
+## Instructor options
 
 I'm happy to discuss policy options with instructors are interested in potentially joining the project. Instructors can specify policy options appropriate for their particular classes on their dedicated GenAI policy webpage on [the student-facing project website]](https://nus-ai-writing-project.vercel.app/). Options include:
 
@@ -27,7 +27,7 @@ I'm happy to discuss policy options with instructors are interested in potential
 - whether you will review (or will reserve the right to review) student chats before grading
 - including an instructor declaration about your own possible GenAI use as recommended by the [NUS Policy for Use of AI in Teaching and Learning](https://ctlt.nus.edu.sg/ai-community-of-practice/policies/)
 
-### How to participate
+## How to participate
 
 Just email me letting me know of your interest. In order to create a webpage for your section, I need to know:
 

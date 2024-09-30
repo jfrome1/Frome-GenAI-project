@@ -28,11 +28,11 @@ export default defineConfig({
 	  sidebar: [
         {
           label: 'Home',
-          link: 'index.md',
+          link: '/',
         },
         {
-          label: 'GenAI Policy',
-          link: 'gen-ai-policy.md',
+          label: 'Sample GenAI Policy',
+          link: '/eg-policy/',
         },
       ],
       head: [
