@@ -23,7 +23,7 @@ Participating instructors will be allowed to set their own GenAI policy as appro
 
 ## Instructor options
 
-I'm happy to help instructors develop GenAI policy options appropriate for their particular classes. If they participate in the project, I can create a dedicated GenAI policy webpage for their course on [the student-facing project website]](https://nus-ai-writing-project.vercel.app/). Policy options include:
+I'm happy to help instructors develop GenAI policy options appropriate for their particular classes. If they participate in the project, I can create a dedicated GenAI policy webpage for their course on [the student-facing project website](https://nus-ai-writing-project.vercel.app/). Policy options include:
 
 - prohibiting certain uses of GenAI, such as allowing use of GenAI for revising drafts but not for initial drafting
 - telling students you will review, may review, or will not review student chats before grading assignments
