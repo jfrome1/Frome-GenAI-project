@@ -11,17 +11,17 @@ Participating instructors will be allowed to set their own GenAI policy as appro
 
 ## FAQs
 
-## Shouldn't we discourage GenAI rather than encouraging it?
+### Shouldn't we discourage GenAI rather than encouraging it?
 
 While there is plenty of speculation, there is almost no research on the educational effects of GenAI use. We assume that some use will be harmful and some will be helpful. The first step is knowing how students actually use it.
 
 Further, many of your students are using GenAI whether or not you allow it. It takes little effort to bypass GenAI detection. And even if you ban GenAI use, it's nearly impossible to prove its use or penalize students for using it.
 
-## Won't students just say they didn't use GenAI rather than providing links to their chats? What's in it for them?
+### Won't students just say they didn't use GenAI rather than providing links to their chats? What's in it for them?
 
 We have developed a class protocol you can use that results in very high compliance. All students must either share a link or positively declare that they didn't use GenAI. Either option takes 10 seconds, so if they do use GenAI, it takes the same effort to lie as to share their chat. Finally, 100% compliance isn't necessary for this project to be useful. Even if only 50% of students comply, you will still know a *lot* more about their GenAI use than if you don't request links.
 
-## What is the time commitment for participating in the project?
+### What is the time commitment for participating in the project?
 
 We are inviting instructors to participate at their level of interest
 
@@ -29,14 +29,14 @@ We are inviting instructors to participate at their level of interest
 
 - Co-PI: In addition to team member duties, you join the research team at a level we can decide together, after we know how many are interested in participating, with potential duties including helping design the study, analyzing data, and presenting or publishing our findings.
 
-## What GenAI policy would I have to set to participate?
+### What GenAI policy would I have to set to participate?
 
 I'm happy to help instructors develop GenAI policy options appropriate for their particular classes. Options include:
 
 - prohibiting certain uses of GenAI, such as allowing use of GenAI for revising drafts but not for initial drafting
 - telling students you will review, may review, or will not review student chats before grading assignments
 
-## If I'm interested in participating, what are the next steps?
+### If I'm interested in participating, what are the next steps?
 
 - Contact me - frome(at)nus.edu.sg to discuss your options and best practices for participating
 - If you decide to join, I'll offer to create a dedicated GenAI policy webpage for your course on [the student-facing project website](https://nus-ai-writing-project.vercel.app/) that you can distribute to your students  (optional, not required)
