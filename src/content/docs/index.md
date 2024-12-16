@@ -5,9 +5,7 @@ date: 2024-08-16
 
 GenAI poses unprecedented challenges and opportunities for courses with writing-based assessments. Unfortunately, instructors are currently making course policies with little to no knowledge about how their students actually use GenAI. This research project aims to understand student use to help instructors make informed decisions. We are inviting instructors to allow student use of GenAI on the condition that students submit links to their chats for analysis.
 
-Student GenAI use is common and will grow. Our view is that it is better to know how students are using GenAI so instructors can develop course policies that match their course learning objectives.
-
-Participating instructors will be allowed to set their own GenAI policy as appropriate for their classes.
+Student GenAI use will soon be ubiquitous. Our view is that it is better to know how students are using GenAI so instructors can develop appropriate course policies. No one really knows the best way to deal with GenAI, but pretending that GenAI won't affect your courses is wishful thinking. The first step in moving forward is gathering data we can use to make intelligent decisions.
 
 ## FAQs
 
