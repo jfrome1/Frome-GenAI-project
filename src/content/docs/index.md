@@ -13,7 +13,7 @@ This research project aims to understand student GenAI use to help instructors m
 
 While there is plenty of speculation, there is almost no research on the educational effects of GenAI use. We assume that some use will be harmful and some will be helpful. The first step is knowing how students actually use it.
 
-Further, many of our students are using GenAI whether or not you allow it. It takes little effort to bypass GenAI detection. And even if we ban GenAI use, it's nearly impossible to prove its use or penalize students for using it.
+Further, many of our students are using GenAI whether or not instructors allow it. It takes little effort to bypass GenAI detection. And even if we ban GenAI use, it's nearly impossible to prove its use or penalize students for using it.
 
 ### Won't students just say they didn't use GenAI rather than providing links to their chats? What's in it for them?
 
