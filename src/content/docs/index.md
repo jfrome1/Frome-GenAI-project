@@ -3,9 +3,9 @@ title: Welcome to the NUS GenAI Policy Project
 date: 2024-08-16
 ---
 
-GenAI poses unprecedented challenges and opportunities for courses with writing-based assessments. Unfortunately, instructors are currently making course policies with little knowledge about how their students actually use GenAI. It is likely that some students will use GenAI regardless of course policy. We also don't know the implications of GenAI use on student learning, and research is difficult because we don't typically see how students use GenAI.
+GenAI poses unprecedented challenges and opportunities for courses with writing-based assessments. Unfortunately, as instructors, we have little knowledge about how students use GenAI, nor do we know how different GenAI policies affect student learning. Banning GenAI use is not a good solution, as it is likely that some students will use GenAI regardless of course policy.
 
-This research project aims to understand student GenAI use to help instructors make more informed decisions. We are inviting instructors to allow some student use of GenAI in their courses on the condition that the students submit links to their chats for future research. Our view is that it is better to know how students are using GenAI, and looking at actual chats is much more reliable than asking students to describe their AI use.
+This research project aims to understand student GenAI use to help instructors make more informed decisions. We are inviting instructors to allow some student use of GenAI in their courses on the condition that the students submit links to their chats for future research. Our view is that it is better to know how students are using GenAI, and looking at actual chats is a much more reliable way to gather use data than student self-report.
 
 ## FAQs
 
@@ -13,19 +13,19 @@ This research project aims to understand student GenAI use to help instructors m
 
 While there is plenty of speculation, there is almost no research on the educational effects of GenAI use. We assume that some use will be harmful and some will be helpful. The first step is knowing how students actually use it.
 
-Further, many of your students are using GenAI whether or not you allow it. It takes little effort to bypass GenAI detection. And even if you ban GenAI use, it's nearly impossible to prove its use or penalize students for using it.
+Further, many of our students are using GenAI whether or not you allow it. It takes little effort to bypass GenAI detection. And even if we ban GenAI use, it's nearly impossible to prove its use or penalize students for using it.
 
 ### Won't students just say they didn't use GenAI rather than providing links to their chats? What's in it for them?
 
-We have developed a class protocol you can use that results in very high compliance. All students must either share a link or positively declare that they didn't use GenAI. Either option takes 10 seconds, so if they do use GenAI, it takes the same effort to lie as to share their chat. In addition, 100% compliance isn't necessary for this project to be useful. Even if only 50% of students comply, you will still know a *lot* more about their GenAI use than if you don't request links.
+We have developed a class protocol you can use that results in very high compliance. All students must either share a link or positively declare that they didn't use GenAI. Either option takes just 10 seconds, so if students do use GenAI, it takes the same effort to lie as to share their chat. In addition, 100% compliance isn't necessary for this project to be useful. Even if only 50% of students comply, you will still know a *lot* more about their GenAI use than if you don't request links.
 
 ### What GenAI policy would I have to set to participate?
 
-You can allow or forbid any GenAI use you like. The only requirement is that you would allow at least some GenAI use in your course, and that you set a GenAI policy that includes students submitting links to their GenAI chats. I'm happy to help you develop GenAI policy options appropriate for your particular classes.
+You can allow or forbid any GenAI use you like. The only requirement is that you would allow at least some GenAI use in your course, and that you set a GenAI policy that includes students submitting links to their GenAI chats. We are happy to help you develop GenAI policy options appropriate for your particular classes.
 
 ### What is the time commitment for participating in the project?
 
-Participation is low effort. Students submit GenAI chat links during the semester. After the course ends, we give students the option to opt-out of having their chats analyzed, and you send me the remaining links that you've collected. If you are interested in participating at a higher level, we welcome Co-Investigators.
+Participation requires little time commitment. You ask your students to submit GenAI chat links when during the semester. After the course ends, we give students the option to opt-out of having their chats analyzed, and you send me the remaining links that you've collected. If you are interested in participating at a higher level, we welcome Co-Investigators.
 
 <!--  Options include:
 
