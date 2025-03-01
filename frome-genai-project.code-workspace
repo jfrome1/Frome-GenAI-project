@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "../../../70-79 academic research/GenAI research"
 		}
 	],
 	"settings": {}
