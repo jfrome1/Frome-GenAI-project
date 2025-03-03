@@ -12,23 +12,22 @@ export default defineConfig({
         minHeadingLevel: 1,
         maxHeadingLevel: 2,
       },
-      plugins: [
-        starlightNutshell(),
-      ],
-      title: 'NUS GenAI Policy Project',
+      plugins: [starlightNutshell()],
+      title: "NUS GenAI Policy Project",
       components: {
         // Override the default components.
         TableOfContents: "./src/components/CustomTableOfContents.astro",
+        Pagination: "./src/components/CustomPagination.astro",
       },
       customCss: ["./src/styles/custom.css"],
-	  sidebar: [
+      sidebar: [
         {
-          label: 'Home',
-          link: '/',
+          label: "Home",
+          link: "/",
         },
         {
-          label: 'Sample GenAI Policy',
-          link: '/eg-policy/',
+          label: "Sample GenAI Policy",
+          link: "/eg-policy/",
         },
       ],
       head: [
@@ -50,17 +49,16 @@ export default defineConfig({
       },
     }),
   ],
-    markdown: {
-      rehypePlugins: [
-        [
-          rehypeExternalLinks,
-          {
-            content: { type: "text", value: " 🡕" },
-            target: "_blank",
-            rel: ["noopener", "noreferrer"],
-          },
-        ],
+  markdown: {
+    rehypePlugins: [
+      [
+        rehypeExternalLinks,
+        {
+          content: { type: "text", value: " 🡕" },
+          target: "_blank",
+          rel: ["noopener", "noreferrer"],
+        },
       ],
-    },
-  });
-
+    ],
+  },
+});
