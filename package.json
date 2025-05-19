@@ -11,10 +11,11 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
+    "@astrojs/db": "^0.14.14",
     "@astrojs/starlight": "^0.34.1",
     "@astrojs/starlight-docsearch": "^0.6.0",
     "@vercel/edge": "^1.2.1",
-    "astro": "^5.7.8",
+    "astro": "^5.7.13",
     "astro-compress": "^2.3.8",
     "mermaid": "^11.6.0",
     "posthog-js": "^1.236.7",
